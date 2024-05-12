@@ -1,7 +1,5 @@
 # NatNeurosci_2024_SWPark
-The data and source code repository for the Nature Neuroscience paper about the developmental role of thalamocortical connectivity (Park SW, et al. 2024)
-
-This repository contains the code and data associated with the paper titled "A shifting role of thalamocortical connectivity in the emergence of cortical functional organization" to be published in Nature Neuroscience.
+This repository contains the code and data associated with the paper titled "A shifting role of thalamocortical connectivity in the emergence of cortical functional organization" (Park SW, et al. 2024)
 
 ## Contents
 - Directory contains all the codes used in the analysis. 
@@ -18,7 +16,7 @@ Please install the following tools and software:
 
 ## Citation
 If you use this code or data in your research, please cite:
-Park et al. "A Shifting Role of Thalamocortical Connectivity in the Emergence of Cortical Functional Organization." Nature Neuroscience, 2024.
+Park SW et al. "A Shifting Role of Thalamocortical Connectivity in the Emergence of Cortical Functional Organization.", 2024
 
 ## Contact
 - First author: Shinwon Park (shinwon.park@gmail.com)
